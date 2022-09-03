@@ -1,5 +1,5 @@
 # Computer_Graphics_Project
-<h1> Computer-Graphics-Project</h1>
+
 Course Name: Computer Graphics
 
 ###Tools Used:
